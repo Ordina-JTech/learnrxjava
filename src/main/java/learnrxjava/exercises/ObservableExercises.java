@@ -499,7 +499,7 @@ public class ObservableExercises {
      */
     public Observable<Boolean> exercise16(Observable<Movies> movieLists) {
         // ------------ ASSIGNMENT ----------------------------
-        // Return true is there is an epic (type.equals("epic")) movie.
+        // Return true if there is an epic (interestingMoment.type.equals("epic")) movie.
         // Use Observable.exists();
         // ------------ ASSIGNMENT ----------------------------
         // TODO add implementation
